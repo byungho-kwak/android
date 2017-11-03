@@ -1,3 +1,3 @@
 # Android Do it
 
-Learn Anroid Programming based on example
+Learn Android Programming based on example
